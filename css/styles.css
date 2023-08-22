@@ -14,7 +14,7 @@ html {
 }
 
 p {
-  font-size: 1.25em;
+  font-size: 1.25rem;
 }
 /* brand colors */
 .mbp-eggshell {
@@ -32,7 +32,7 @@ p {
 #mbp-link {
   background-color: var(--mbp-yellow);
   font-weight: 700;
-  font-size: 1em;
+  font-size: 1rem;
 padding: 8px 12px;
 }
 
